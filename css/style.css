@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+header{
+    background-color: rgb(150, 58, 236);
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    text-align: center;
+}
+
+main{
+    padding: 30px 50px;
+}
+
+.card{
+    background-color: rgb(226, 226, 226);
+}
